@@ -12,12 +12,17 @@
 	<category_index>0</category_index>
 	<zoom>0.8</zoom>
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<x>110</x>
 	<y>0</y>
 =======
 	<x>138</x>
 	<y>191</y>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+	<x>266</x>
+	<y>0</y>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 	<default_color>
 		<r>128</r>
 		<g>128</g>
@@ -38,10 +43,14 @@
 		<notation_level>0</notation_level>
 		<notation_expand_group>true</notation_expand_group>
 <<<<<<< HEAD
+<<<<<<< HEAD
 		<view_mode>2</view_mode>
 =======
 		<view_mode>0</view_mode>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+		<view_mode>0</view_mode>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 		<outline_view_mode>1</outline_view_mode>
 		<view_order_by>1</view_order_by>
 		<auto_ime_change>false</auto_ime_change>
@@ -148,10 +157,14 @@
 			<display>false</display>
 			<creation_date>2015-09-14 14:20:50</creation_date>
 <<<<<<< HEAD
+<<<<<<< HEAD
 			<updated_date>2016-02-01 10:43:55</updated_date>
 =======
 			<updated_date>2015-12-07 13:00:15</updated_date>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+			<updated_date>2016-01-18 14:59:48</updated_date>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<model_property>
 				<name>プロジェクト名</name>
 				<value></value>
@@ -199,9 +212,13 @@
 			<binary>false</binary>
 			<args></args>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 			<char_semantics>false</char_semantics>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+			<char_semantics>false</char_semantics>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<description></description>
 			<logical_name>管理者ID</logical_name>
 			<physical_name>admin_id</physical_name>
@@ -218,9 +235,13 @@
 			<binary>false</binary>
 			<args></args>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 			<char_semantics>false</char_semantics>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+			<char_semantics>false</char_semantics>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<description></description>
 			<logical_name>生年月日</logical_name>
 			<physical_name>birthday</physical_name>
@@ -237,9 +258,13 @@
 			<binary>false</binary>
 			<args></args>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 			<char_semantics>false</char_semantics>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+			<char_semantics>false</char_semantics>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<description></description>
 			<logical_name>購入ポイント</logical_name>
 			<physical_name>buy_point</physical_name>
@@ -256,9 +281,13 @@
 			<binary>false</binary>
 			<args></args>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 			<char_semantics>false</char_semantics>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+			<char_semantics>false</char_semantics>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<description></description>
 			<logical_name>購入日付</logical_name>
 			<physical_name>buy_timestamp</physical_name>
@@ -275,9 +304,13 @@
 			<binary>false</binary>
 			<args></args>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 			<char_semantics>false</char_semantics>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+			<char_semantics>false</char_semantics>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<description>電子マネー番号</description>
 			<logical_name>カード番号</logical_name>
 			<physical_name>card_no</physical_name>
@@ -294,9 +327,13 @@
 			<binary>false</binary>
 			<args></args>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 			<char_semantics>false</char_semantics>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+			<char_semantics>false</char_semantics>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<description></description>
 			<logical_name>通報コメント</logical_name>
 			<physical_name>comment</physical_name>
@@ -313,9 +350,13 @@
 			<binary>false</binary>
 			<args></args>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 			<char_semantics>false</char_semantics>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+			<char_semantics>false</char_semantics>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<description></description>
 			<logical_name>競技ID</logical_name>
 			<physical_name>competition_id</physical_name>
@@ -332,9 +373,13 @@
 			<binary>false</binary>
 			<args></args>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 			<char_semantics>false</char_semantics>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+			<char_semantics>false</char_semantics>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<description></description>
 			<logical_name>内容</logical_name>
 			<physical_name>contents</physical_name>
@@ -351,9 +396,13 @@
 			<binary>false</binary>
 			<args></args>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 			<char_semantics>false</char_semantics>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+			<char_semantics>false</char_semantics>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<description>管理者がどう対応したのかのステータス</description>
 			<logical_name>対応内容</logical_name>
 			<physical_name>contents</physical_name>
@@ -370,9 +419,13 @@
 			<binary>false</binary>
 			<args></args>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 			<char_semantics>false</char_semantics>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+			<char_semantics>false</char_semantics>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<description></description>
 			<logical_name>投稿ID</logical_name>
 			<physical_name>contribution_id</physical_name>
@@ -389,9 +442,13 @@
 			<binary>false</binary>
 			<args></args>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 			<char_semantics>false</char_semantics>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+			<char_semantics>false</char_semantics>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<description></description>
 			<logical_name>投稿日時</logical_name>
 			<physical_name>contribution_timestamp</physical_name>
@@ -408,9 +465,13 @@
 			<binary>false</binary>
 			<args></args>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 			<char_semantics>false</char_semantics>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+			<char_semantics>false</char_semantics>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<description>削除はしない、&#x0D;&#x0A;フラグを立てたらログインできないようにする&#x0D;&#x0A;</description>
 			<logical_name>退会フラグ</logical_name>
 			<physical_name>delete_flag</physical_name>
@@ -427,9 +488,13 @@
 			<binary>false</binary>
 			<args></args>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 			<char_semantics>false</char_semantics>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+			<char_semantics>false</char_semantics>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<description>０だったら管理者が見てない&#x0D;&#x0A;１だったら管理者が見てる&#x0D;&#x0A;２だったら通報してる</description>
 			<logical_name>公開ステータス</logical_name>
 			<physical_name>exhibition_status</physical_name>
@@ -446,9 +511,13 @@
 			<binary>false</binary>
 			<args></args>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 			<char_semantics>false</char_semantics>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+			<char_semantics>false</char_semantics>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<description></description>
 			<logical_name>競技説明</logical_name>
 			<physical_name>explanation</physical_name>
@@ -465,9 +534,13 @@
 			<binary>false</binary>
 			<args></args>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 			<char_semantics>false</char_semantics>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+			<char_semantics>false</char_semantics>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<description>ログインする時に使う任意のID</description>
 			<logical_name>会員ID</logical_name>
 			<physical_name>id</physical_name>
@@ -484,9 +557,13 @@
 			<binary>false</binary>
 			<args></args>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 			<char_semantics>false</char_semantics>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+			<char_semantics>false</char_semantics>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<description></description>
 			<logical_name>画像パス</logical_name>
 			<physical_name>img_pass</physical_name>
@@ -503,9 +580,13 @@
 			<binary>false</binary>
 			<args></args>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 			<char_semantics>false</char_semantics>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+			<char_semantics>false</char_semantics>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<description></description>
 			<logical_name>ログイン日時</logical_name>
 			<physical_name>login_timestamp</physical_name>
@@ -522,9 +603,13 @@
 			<binary>false</binary>
 			<args></args>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 			<char_semantics>false</char_semantics>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+			<char_semantics>false</char_semantics>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<description></description>
 			<logical_name>メールアドレス</logical_name>
 			<physical_name>mail_adress</physical_name>
@@ -541,9 +626,13 @@
 			<binary>false</binary>
 			<args></args>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 			<char_semantics>false</char_semantics>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+			<char_semantics>false</char_semantics>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<description></description>
 			<logical_name>会員NO</logical_name>
 			<physical_name>member_no</physical_name>
@@ -560,9 +649,13 @@
 			<binary>false</binary>
 			<args></args>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 			<char_semantics>false</char_semantics>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+			<char_semantics>false</char_semantics>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<description></description>
 			<logical_name>メッセ―ジID</logical_name>
 			<physical_name>message_id</physical_name>
@@ -579,9 +672,13 @@
 			<binary>false</binary>
 			<args></args>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 			<char_semantics>false</char_semantics>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+			<char_semantics>false</char_semantics>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<description></description>
 			<logical_name>お題名</logical_name>
 			<physical_name>name</physical_name>
@@ -598,9 +695,13 @@
 			<binary>false</binary>
 			<args></args>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 			<char_semantics>false</char_semantics>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+			<char_semantics>false</char_semantics>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<description></description>
 			<logical_name>タグ名</logical_name>
 			<physical_name>name</physical_name>
@@ -617,9 +718,13 @@
 			<binary>false</binary>
 			<args></args>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 			<char_semantics>false</char_semantics>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+			<char_semantics>false</char_semantics>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<description></description>
 			<logical_name>会員名</logical_name>
 			<physical_name>name</physical_name>
@@ -636,9 +741,13 @@
 			<binary>false</binary>
 			<args></args>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 			<char_semantics>false</char_semantics>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+			<char_semantics>false</char_semantics>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<description></description>
 			<logical_name>受賞名</logical_name>
 			<physical_name>name</physical_name>
@@ -655,9 +764,13 @@
 			<binary>false</binary>
 			<args></args>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 			<char_semantics>false</char_semantics>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+			<char_semantics>false</char_semantics>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<description></description>
 			<logical_name>競技名</logical_name>
 			<physical_name>name</physical_name>
@@ -674,9 +787,13 @@
 			<binary>false</binary>
 			<args></args>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 			<char_semantics>false</char_semantics>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+			<char_semantics>false</char_semantics>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<description></description>
 			<logical_name>管理者名</logical_name>
 			<physical_name>name</physical_name>
@@ -693,9 +810,13 @@
 			<binary>false</binary>
 			<args></args>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 			<char_semantics>false</char_semantics>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+			<char_semantics>false</char_semantics>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<description></description>
 			<logical_name>パスワード</logical_name>
 			<physical_name>password</physical_name>
@@ -712,9 +833,13 @@
 			<binary>false</binary>
 			<args></args>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 			<char_semantics>false</char_semantics>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+			<char_semantics>false</char_semantics>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<description></description>
 			<logical_name>管理者パスワード</logical_name>
 			<physical_name>password</physical_name>
@@ -731,9 +856,13 @@
 			<binary>false</binary>
 			<args></args>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 			<char_semantics>false</char_semantics>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+			<char_semantics>false</char_semantics>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<description></description>
 			<logical_name>付与ポイント</logical_name>
 			<physical_name>point</physical_name>
@@ -750,9 +879,13 @@
 			<binary>false</binary>
 			<args></args>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 			<char_semantics>false</char_semantics>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+			<char_semantics>false</char_semantics>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<description>残高みたいなもの&#x0D;&#x0A;</description>
 			<logical_name>保有ポイント</logical_name>
 			<physical_name>point</physical_name>
@@ -769,9 +902,13 @@
 			<binary>false</binary>
 			<args></args>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 			<char_semantics>false</char_semantics>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+			<char_semantics>false</char_semantics>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<description>実際に使用したポイントの情報&#x0D;&#x0A;</description>
 			<logical_name>利用ポイント</logical_name>
 			<physical_name>point</physical_name>
@@ -788,9 +925,13 @@
 			<binary>false</binary>
 			<args></args>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 			<char_semantics>false</char_semantics>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+			<char_semantics>false</char_semantics>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<description></description>
 			<logical_name>ポイント購入ID</logical_name>
 			<physical_name>point_buy_id</physical_name>
@@ -807,9 +948,13 @@
 			<binary>false</binary>
 			<args></args>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 			<char_semantics>false</char_semantics>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+			<char_semantics>false</char_semantics>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<description></description>
 			<logical_name>通報番号</logical_name>
 			<physical_name>report_no</physical_name>
@@ -826,9 +971,13 @@
 			<binary>false</binary>
 			<args></args>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 			<char_semantics>false</char_semantics>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+			<char_semantics>false</char_semantics>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<description></description>
 			<logical_name>通報日時</logical_name>
 			<physical_name>report_timestamp</physical_name>
@@ -845,9 +994,13 @@
 			<binary>false</binary>
 			<args></args>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 			<char_semantics>false</char_semantics>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+			<char_semantics>false</char_semantics>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<description></description>
 			<logical_name>点数</logical_name>
 			<physical_name>score</physical_name>
@@ -864,9 +1017,13 @@
 			<binary>false</binary>
 			<args></args>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 			<char_semantics>false</char_semantics>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+			<char_semantics>false</char_semantics>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<description></description>
 			<logical_name>発信日付</logical_name>
 			<physical_name>send_timestamp</physical_name>
@@ -883,9 +1040,13 @@
 			<binary>false</binary>
 			<args></args>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 			<char_semantics>false</char_semantics>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+			<char_semantics>false</char_semantics>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<description>Uomen&#x0D;&#x0A;Men&#x0D;&#x0A;でUかMで判断する&#x0D;&#x0A;</description>
 			<logical_name>性別</logical_name>
 			<physical_name>sex</physical_name>
@@ -902,9 +1063,13 @@
 			<binary>false</binary>
 			<args></args>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 			<char_semantics>false</char_semantics>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+			<char_semantics>false</char_semantics>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<description></description>
 			<logical_name>タグ番号</logical_name>
 			<physical_name>tag_no</physical_name>
@@ -921,9 +1086,13 @@
 			<binary>false</binary>
 			<args></args>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 			<char_semantics>false</char_semantics>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+			<char_semantics>false</char_semantics>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<description></description>
 			<logical_name>受賞日付</logical_name>
 			<physical_name>timestamp</physical_name>
@@ -940,9 +1109,13 @@
 			<binary>false</binary>
 			<args></args>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 			<char_semantics>false</char_semantics>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+			<char_semantics>false</char_semantics>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<description>お祝いか警告か</description>
 			<logical_name>タイトル</logical_name>
 			<physical_name>title</physical_name>
@@ -959,9 +1132,13 @@
 			<binary>false</binary>
 			<args></args>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 			<char_semantics>false</char_semantics>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+			<char_semantics>false</char_semantics>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<description></description>
 			<logical_name>お題ID</logical_name>
 			<physical_name>title_id</physical_name>
@@ -978,9 +1155,13 @@
 			<binary>false</binary>
 			<args></args>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 			<char_semantics>false</char_semantics>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+			<char_semantics>false</char_semantics>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<description>競技で必要なポイントを掲示する&#x0D;&#x0A;キャンペーン等で変動する場合があるため</description>
 			<logical_name>使用ポイント</logical_name>
 			<physical_name>use_point</physical_name>
@@ -1006,7 +1187,11 @@
 			<connections>
 				<relation>
 					<id>0</id>
+<<<<<<< HEAD
 					<source>12</source>
+=======
+					<source>6</source>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<target>0</target>
 						<source_xp>-1</source_xp>
 						<source_yp>-1</source_yp>
@@ -1029,10 +1214,14 @@
 				<relation>
 					<id>1</id>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<source>11</source>
 =======
 					<source>6</source>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<source>12</source>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<target>0</target>
 						<source_xp>-1</source_xp>
 						<source_yp>-1</source_yp>
@@ -1063,12 +1252,17 @@
 				<normal_column>
 					<id>0</id>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<referenced_column>43</referenced_column>
 					<relation>1</relation>
 =======
 					<referenced_column>51</referenced_column>
 					<relation>0</relation>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<referenced_column>51</referenced_column>
+					<relation>1</relation>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<description></description>
 					<unique_key_name></unique_key_name>
 					<logical_name></logical_name>
@@ -1102,12 +1296,17 @@
 				<normal_column>
 					<id>1</id>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<referenced_column>50</referenced_column>
 					<relation>0</relation>
 =======
 					<referenced_column>25</referenced_column>
 					<relation>1</relation>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<referenced_column>25</referenced_column>
+					<relation>0</relation>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<description></description>
 					<unique_key_name></unique_key_name>
 					<logical_name></logical_name>
@@ -1180,10 +1379,14 @@
 				<relation>
 					<id>2</id>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<source>12</source>
 =======
 					<source>6</source>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<source>6</source>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<target>1</target>
 						<source_xp>-1</source_xp>
 						<source_yp>-1</source_yp>
@@ -1214,10 +1417,14 @@
 				<normal_column>
 					<id>2</id>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<referenced_column>50</referenced_column>
 =======
 					<referenced_column>25</referenced_column>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<referenced_column>25</referenced_column>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<relation>2</relation>
 					<description></description>
 					<unique_key_name></unique_key_name>
@@ -1311,7 +1518,11 @@
 			<connections>
 				<relation>
 					<id>3</id>
+<<<<<<< HEAD
 					<source>12</source>
+=======
+					<source>6</source>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<target>2</target>
 						<source_xp>-1</source_xp>
 						<source_yp>-1</source_yp>
@@ -1324,10 +1535,14 @@
 						</color>
 					<child_cardinality>1..n</child_cardinality>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<parent_cardinality>1</parent_cardinality>
 =======
 					<parent_cardinality>0..1</parent_cardinality>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<parent_cardinality>1</parent_cardinality>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<reference_for_pk>true</reference_for_pk>
 					<name></name>
 					<on_delete_action>RESTRICT</on_delete_action>
@@ -1338,10 +1553,14 @@
 				<relation>
 					<id>4</id>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<source>11</source>
 =======
 					<source>6</source>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<source>12</source>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<target>2</target>
 						<source_xp>-1</source_xp>
 						<source_yp>-1</source_yp>
@@ -1354,10 +1573,14 @@
 						</color>
 					<child_cardinality>1..n</child_cardinality>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<parent_cardinality>0..1</parent_cardinality>
 =======
 					<parent_cardinality>1</parent_cardinality>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<parent_cardinality>0..1</parent_cardinality>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<reference_for_pk>true</reference_for_pk>
 					<name></name>
 					<on_delete_action>RESTRICT</on_delete_action>
@@ -1409,12 +1632,17 @@
 				<normal_column>
 					<id>5</id>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<referenced_column>43</referenced_column>
 					<relation>4</relation>
 =======
 					<referenced_column>51</referenced_column>
 					<relation>3</relation>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<referenced_column>51</referenced_column>
+					<relation>4</relation>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<description></description>
 					<unique_key_name></unique_key_name>
 					<logical_name></logical_name>
@@ -1448,12 +1676,17 @@
 				<normal_column>
 					<id>6</id>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<referenced_column>50</referenced_column>
 					<relation>3</relation>
 =======
 					<referenced_column>25</referenced_column>
 					<relation>4</relation>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<referenced_column>25</referenced_column>
+					<relation>3</relation>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<description></description>
 					<unique_key_name></unique_key_name>
 					<logical_name>通報者会員ID</logical_name>
@@ -1613,10 +1846,14 @@
 				<relation>
 					<id>5</id>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<source>11</source>
 =======
 					<source>12</source>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<source>12</source>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<target>3</target>
 						<source_xp>-1</source_xp>
 						<source_yp>-1</source_yp>
@@ -1647,10 +1884,14 @@
 				<normal_column>
 					<id>10</id>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<referenced_column>43</referenced_column>
 =======
 					<referenced_column>51</referenced_column>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<referenced_column>51</referenced_column>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<relation>5</relation>
 					<description></description>
 					<unique_key_name></unique_key_name>
@@ -1811,10 +2052,14 @@
 				<relation>
 					<id>6</id>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<source>12</source>
 =======
 					<source>7</source>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<source>6</source>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<target>4</target>
 						<source_xp>-1</source_xp>
 						<source_yp>-1</source_yp>
@@ -1827,10 +2072,14 @@
 						</color>
 					<child_cardinality>1..n</child_cardinality>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<parent_cardinality>1</parent_cardinality>
 =======
 					<parent_cardinality>0..1</parent_cardinality>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<parent_cardinality>1</parent_cardinality>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<reference_for_pk>true</reference_for_pk>
 					<name></name>
 					<on_delete_action>RESTRICT</on_delete_action>
@@ -1840,7 +2089,11 @@
 				</relation>
 				<relation>
 					<id>7</id>
+<<<<<<< HEAD
 					<source>6</source>
+=======
+					<source>7</source>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<target>4</target>
 						<source_xp>-1</source_xp>
 						<source_yp>-1</source_yp>
@@ -1853,10 +2106,14 @@
 						</color>
 					<child_cardinality>1..n</child_cardinality>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<parent_cardinality>0..1</parent_cardinality>
 =======
 					<parent_cardinality>1</parent_cardinality>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<parent_cardinality>0..1</parent_cardinality>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<reference_for_pk>true</reference_for_pk>
 					<name></name>
 					<on_delete_action>RESTRICT</on_delete_action>
@@ -1908,12 +2165,17 @@
 				<normal_column>
 					<id>15</id>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<referenced_column>50</referenced_column>
 					<relation>6</relation>
 =======
 					<referenced_column>25</referenced_column>
 					<relation>7</relation>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<referenced_column>25</referenced_column>
+					<relation>6</relation>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<description></description>
 					<unique_key_name></unique_key_name>
 					<logical_name>宛先会員ID</logical_name>
@@ -2046,12 +2308,17 @@
 				<normal_column>
 					<id>19</id>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<referenced_column>25</referenced_column>
 					<relation>7</relation>
 =======
 					<referenced_column>33</referenced_column>
 					<relation>6</relation>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<referenced_column>33</referenced_column>
+					<relation>7</relation>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<description></description>
 					<unique_key_name></unique_key_name>
 					<logical_name>発信管理者ID</logical_name>
@@ -2112,10 +2379,14 @@
 				<relation>
 					<id>8</id>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<source>12</source>
 =======
 					<source>6</source>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<source>6</source>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<target>5</target>
 						<source_xp>-1</source_xp>
 						<source_yp>-1</source_yp>
@@ -2179,10 +2450,14 @@
 				<normal_column>
 					<id>21</id>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<referenced_column>50</referenced_column>
 =======
 					<referenced_column>25</referenced_column>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<referenced_column>25</referenced_column>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<relation>8</relation>
 					<description></description>
 					<unique_key_name></unique_key_name>
@@ -2329,6 +2604,7 @@
 		<table>
 			<id>6</id>
 <<<<<<< HEAD
+<<<<<<< HEAD
 			<height>196</height>
 			<width>315</width>
 				<font_name>Meiryo UI</font_name>
@@ -2343,6 +2619,14 @@
 			<x>888</x>
 			<y>12</y>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+			<height>346</height>
+			<width>419</width>
+				<font_name>Meiryo UI</font_name>
+				<font_size>9</font_size>
+			<x>888</x>
+			<y>11</y>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<color>
 				<r>128</r>
 				<g>128</g>
@@ -2351,12 +2635,17 @@
 			<connections>
 			</connections>
 <<<<<<< HEAD
+<<<<<<< HEAD
 			<physical_name>Admin</physical_name>
 			<logical_name>管理者テーブル</logical_name>
 =======
 			<physical_name>Member</physical_name>
 			<logical_name>会員テーブル</logical_name>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+			<physical_name>Member</physical_name>
+			<logical_name>会員テーブル</logical_name>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<description></description>
 			<constraint></constraint>
 			<primary_key_name></primary_key_name>
@@ -2364,15 +2653,20 @@
 			<columns>
 				<normal_column>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<word_id>0</word_id>
 =======
 					<word_id>18</word_id>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<word_id>18</word_id>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<id>25</id>
 					<description></description>
 					<unique_key_name></unique_key_name>
 					<logical_name></logical_name>
 					<physical_name></physical_name>
+<<<<<<< HEAD
 <<<<<<< HEAD
 					<type>varchar(n)</type>
 					<constraint></constraint>
@@ -2383,6 +2677,8 @@
 					<primary_key>true</primary_key>
 					<unique_key>true</unique_key>
 =======
+=======
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<type>integer</type>
 					<constraint></constraint>
 					<default_value></default_value>
@@ -2391,7 +2687,10 @@
 					<not_null>true</not_null>
 					<primary_key>true</primary_key>
 					<unique_key>false</unique_key>
+<<<<<<< HEAD
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<character_set></character_set>
 					<collation></collation>
 					<sequence>
@@ -2412,10 +2711,14 @@
 				</normal_column>
 				<normal_column>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<word_id>25</word_id>
 =======
 					<word_id>14</word_id>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<word_id>14</word_id>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<id>26</id>
 					<description></description>
 					<unique_key_name></unique_key_name>
@@ -2427,6 +2730,7 @@
 					<auto_increment>false</auto_increment>
 					<foreign_key>false</foreign_key>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<not_null>false</not_null>
 					<primary_key>false</primary_key>
 					<unique_key>false</unique_key>
@@ -2435,6 +2739,11 @@
 					<primary_key>false</primary_key>
 					<unique_key>true</unique_key>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<not_null>true</not_null>
+					<primary_key>false</primary_key>
+					<unique_key>true</unique_key>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<character_set></character_set>
 					<collation></collation>
 					<sequence>
@@ -2455,20 +2764,28 @@
 				</normal_column>
 				<normal_column>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<word_id>16</word_id>
 =======
 					<word_id>22</word_id>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<word_id>22</word_id>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<id>27</id>
 					<description></description>
 					<unique_key_name></unique_key_name>
 					<logical_name></logical_name>
 					<physical_name></physical_name>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<type>timestamp</type>
 =======
 					<type>varchar(n)</type>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<type>varchar(n)</type>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<constraint></constraint>
 					<default_value></default_value>
 					<auto_increment>false</auto_increment>
@@ -2496,10 +2813,14 @@
 				</normal_column>
 				<normal_column>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<word_id>27</word_id>
 =======
 					<word_id>26</word_id>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<word_id>26</word_id>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<id>28</id>
 					<description></description>
 					<unique_key_name></unique_key_name>
@@ -2533,29 +2854,41 @@
 				</normal_column>
 				<normal_column>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<word_id>11</word_id>
 =======
 					<word_id>17</word_id>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<word_id>17</word_id>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<id>29</id>
 					<description></description>
 					<unique_key_name></unique_key_name>
 					<logical_name></logical_name>
 					<physical_name></physical_name>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<type>boolean</type>
 =======
 					<type>varchar(n)</type>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<type>varchar(n)</type>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<constraint></constraint>
 					<default_value></default_value>
 					<auto_increment>false</auto_increment>
 					<foreign_key>false</foreign_key>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<not_null>false</not_null>
 =======
 					<not_null>true</not_null>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<not_null>true</not_null>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<primary_key>false</primary_key>
 					<unique_key>false</unique_key>
 					<character_set></character_set>
@@ -2576,6 +2909,7 @@
 						<decimal_size>0</decimal_size>
 					</sequence>
 				</normal_column>
+<<<<<<< HEAD
 <<<<<<< HEAD
 			</columns>
 			<indexes>
@@ -2618,11 +2952,16 @@
 				<normal_column>
 					<word_id>1</word_id>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+				<normal_column>
+					<word_id>1</word_id>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<id>30</id>
 					<description></description>
 					<unique_key_name></unique_key_name>
 					<logical_name></logical_name>
 					<physical_name></physical_name>
+<<<<<<< HEAD
 <<<<<<< HEAD
 					<type>integer</type>
 					<constraint></constraint>
@@ -2661,6 +3000,9 @@
 =======
 					<type>date</type>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<type>date</type>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<constraint></constraint>
 					<default_value></default_value>
 					<auto_increment>false</auto_increment>
@@ -2687,6 +3029,7 @@
 					</sequence>
 				</normal_column>
 				<normal_column>
+<<<<<<< HEAD
 <<<<<<< HEAD
 					<word_id>41</word_id>
 					<id>32</id>
@@ -2694,15 +3037,23 @@
 					<word_id>36</word_id>
 					<id>31</id>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<word_id>36</word_id>
+					<id>31</id>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<description></description>
 					<unique_key_name></unique_key_name>
 					<logical_name></logical_name>
 					<physical_name></physical_name>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<type>integer</type>
 =======
 					<type>character(n)</type>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<type>character(n)</type>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<constraint></constraint>
 					<default_value></default_value>
 					<auto_increment>false</auto_increment>
@@ -2730,30 +3081,43 @@
 				</normal_column>
 				<normal_column>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<word_id>13</word_id>
 					<id>33</id>
 =======
 					<word_id>11</word_id>
 					<id>32</id>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<word_id>11</word_id>
+					<id>32</id>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<description></description>
 					<unique_key_name></unique_key_name>
 					<logical_name></logical_name>
 					<physical_name></physical_name>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<type>text</type>
 =======
 					<type>boolean</type>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<type>boolean</type>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<constraint></constraint>
 					<default_value></default_value>
 					<auto_increment>false</auto_increment>
 					<foreign_key>false</foreign_key>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<not_null>true</not_null>
 =======
 					<not_null>false</not_null>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<not_null>false</not_null>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<primary_key>false</primary_key>
 					<unique_key>false</unique_key>
 					<character_set></character_set>
@@ -2789,6 +3153,7 @@
 		</table>
 		<table>
 <<<<<<< HEAD
+<<<<<<< HEAD
 			<id>8</id>
 			<height>138</height>
 			<width>269</width>
@@ -2797,6 +3162,8 @@
 			<x>10</x>
 			<y>264</y>
 =======
+=======
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<id>7</id>
 			<height>196</height>
 			<width>315</width>
@@ -2804,13 +3171,17 @@
 				<font_size>9</font_size>
 			<x>804</x>
 			<y>698</y>
+<<<<<<< HEAD
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<color>
 				<r>128</r>
 				<g>128</g>
 				<b>192</b>
 			</color>
 			<connections>
+<<<<<<< HEAD
 <<<<<<< HEAD
 				<relation>
 					<id>9</id>
@@ -2842,6 +3213,11 @@
 			<physical_name>Admin</physical_name>
 			<logical_name>管理者テーブル</logical_name>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+			</connections>
+			<physical_name>Admin</physical_name>
+			<logical_name>管理者テーブル</logical_name>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<description></description>
 			<constraint></constraint>
 			<primary_key_name></primary_key_name>
@@ -2849,16 +3225,22 @@
 			<columns>
 				<normal_column>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<word_id>40</word_id>
 					<id>34</id>
 =======
 					<word_id>0</word_id>
 					<id>33</id>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<word_id>0</word_id>
+					<id>33</id>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<description></description>
 					<unique_key_name></unique_key_name>
 					<logical_name></logical_name>
 					<physical_name></physical_name>
+<<<<<<< HEAD
 <<<<<<< HEAD
 					<type>integer</type>
 					<constraint></constraint>
@@ -2868,6 +3250,8 @@
 					<not_null>true</not_null>
 					<primary_key>true</primary_key>
 =======
+=======
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<type>varchar(n)</type>
 					<constraint></constraint>
 					<default_value></default_value>
@@ -2908,7 +3292,10 @@
 					<foreign_key>false</foreign_key>
 					<not_null>false</not_null>
 					<primary_key>false</primary_key>
+<<<<<<< HEAD
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<unique_key>false</unique_key>
 					<character_set></character_set>
 					<collation></collation>
@@ -2929,6 +3316,7 @@
 					</sequence>
 				</normal_column>
 				<normal_column>
+<<<<<<< HEAD
 <<<<<<< HEAD
 					<id>35</id>
 					<referenced_column>30</referenced_column>
@@ -2937,10 +3325,15 @@
 					<word_id>16</word_id>
 					<id>35</id>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<word_id>16</word_id>
+					<id>35</id>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<description></description>
 					<unique_key_name></unique_key_name>
 					<logical_name></logical_name>
 					<physical_name></physical_name>
+<<<<<<< HEAD
 <<<<<<< HEAD
 					<type>integer</type>
 					<constraint></constraint>
@@ -2948,12 +3341,17 @@
 					<auto_increment>false</auto_increment>
 					<foreign_key>true</foreign_key>
 =======
+=======
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<type>timestamp</type>
 					<constraint></constraint>
 					<default_value></default_value>
 					<auto_increment>false</auto_increment>
 					<foreign_key>false</foreign_key>
+<<<<<<< HEAD
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<not_null>true</not_null>
 					<primary_key>false</primary_key>
 					<unique_key>false</unique_key>
@@ -2977,29 +3375,41 @@
 				</normal_column>
 				<normal_column>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<word_id>20</word_id>
 =======
 					<word_id>27</word_id>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<word_id>27</word_id>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<id>36</id>
 					<description></description>
 					<unique_key_name></unique_key_name>
 					<logical_name></logical_name>
 					<physical_name></physical_name>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<type>varchar(n)</type>
 =======
 					<type>character(n)</type>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<type>character(n)</type>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<constraint></constraint>
 					<default_value></default_value>
 					<auto_increment>false</auto_increment>
 					<foreign_key>false</foreign_key>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<not_null>false</not_null>
 =======
 					<not_null>true</not_null>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<not_null>true</not_null>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<primary_key>false</primary_key>
 					<unique_key>false</unique_key>
 					<character_set></character_set>
@@ -3020,6 +3430,7 @@
 						<decimal_size>0</decimal_size>
 					</sequence>
 				</normal_column>
+<<<<<<< HEAD
 <<<<<<< HEAD
 			</columns>
 			<indexes>
@@ -3031,6 +3442,8 @@
 				<character_set></character_set>
 				<collation></collation>
 =======
+=======
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 				<normal_column>
 					<word_id>11</word_id>
 					<id>37</id>
@@ -3073,12 +3486,16 @@
 				<schema></schema>
 				<character_set></character_set>
 				<collation></collation>
+<<<<<<< HEAD
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 				<storage_engine></storage_engine>
 				<primary_key_length_of_text>null</primary_key_length_of_text>
 			</table_properties>
 		</table>
 		<table>
+<<<<<<< HEAD
 <<<<<<< HEAD
 			<id>9</id>
 			<height>138</height>
@@ -3088,6 +3505,8 @@
 			<x>-2</x>
 			<y>496</y>
 =======
+=======
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<id>8</id>
 			<height>167</height>
 			<width>282</width>
@@ -3095,13 +3514,17 @@
 				<font_size>9</font_size>
 			<x>4</x>
 			<y>12</y>
+<<<<<<< HEAD
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<color>
 				<r>128</r>
 				<g>128</g>
 				<b>192</b>
 			</color>
 			<connections>
+<<<<<<< HEAD
 <<<<<<< HEAD
 				<relation>
 					<id>10</id>
@@ -3155,12 +3578,18 @@
 			<physical_name>Competition</physical_name>
 			<logical_name>競技テーブル</logical_name>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+			</connections>
+			<physical_name>Competition</physical_name>
+			<logical_name>競技テーブル</logical_name>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<description></description>
 			<constraint></constraint>
 			<primary_key_name></primary_key_name>
 			<option></option>
 			<columns>
 				<normal_column>
+<<<<<<< HEAD
 <<<<<<< HEAD
 					<id>37</id>
 					<referenced_column>43</referenced_column>
@@ -3169,6 +3598,10 @@
 					<word_id>6</word_id>
 					<id>38</id>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<word_id>6</word_id>
+					<id>38</id>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<description></description>
 					<unique_key_name></unique_key_name>
 					<logical_name></logical_name>
@@ -3177,12 +3610,17 @@
 					<constraint></constraint>
 					<default_value></default_value>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<auto_increment>false</auto_increment>
 					<foreign_key>true</foreign_key>
 =======
 					<auto_increment>true</auto_increment>
 					<foreign_key>false</foreign_key>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<auto_increment>true</auto_increment>
+					<foreign_key>false</foreign_key>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<not_null>true</not_null>
 					<primary_key>true</primary_key>
 					<unique_key>false</unique_key>
@@ -3206,10 +3644,13 @@
 				</normal_column>
 				<normal_column>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<id>38</id>
 					<referenced_column>34</referenced_column>
 					<relation>10</relation>
 =======
+=======
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<word_id>24</word_id>
 					<id>39</id>
 					<description></description>
@@ -3245,7 +3686,10 @@
 				<normal_column>
 					<word_id>41</word_id>
 					<id>40</id>
+<<<<<<< HEAD
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<description></description>
 					<unique_key_name></unique_key_name>
 					<logical_name></logical_name>
@@ -3255,6 +3699,7 @@
 					<default_value></default_value>
 					<auto_increment>false</auto_increment>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<foreign_key>true</foreign_key>
 					<not_null>true</not_null>
 					<primary_key>true</primary_key>
@@ -3263,6 +3708,11 @@
 					<not_null>true</not_null>
 					<primary_key>false</primary_key>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<foreign_key>false</foreign_key>
+					<not_null>true</not_null>
+					<primary_key>false</primary_key>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<unique_key>false</unique_key>
 					<character_set></character_set>
 					<collation></collation>
@@ -3284,21 +3734,30 @@
 				</normal_column>
 				<normal_column>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<word_id>15</word_id>
 					<id>39</id>
 =======
 					<word_id>13</word_id>
 					<id>41</id>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<word_id>13</word_id>
+					<id>41</id>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<description></description>
 					<unique_key_name></unique_key_name>
 					<logical_name></logical_name>
 					<physical_name></physical_name>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<type>varchar(n)</type>
 =======
 					<type>text</type>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<type>text</type>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<constraint></constraint>
 					<default_value></default_value>
 					<auto_increment>false</auto_increment>
@@ -3339,6 +3798,7 @@
 		</table>
 		<table>
 <<<<<<< HEAD
+<<<<<<< HEAD
 			<id>10</id>
 			<height>138</height>
 			<width>261</width>
@@ -3347,6 +3807,8 @@
 			<x>468</x>
 			<y>756</y>
 =======
+=======
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<id>9</id>
 			<height>138</height>
 			<width>269</width>
@@ -3354,7 +3816,10 @@
 				<font_size>9</font_size>
 			<x>10</x>
 			<y>264</y>
+<<<<<<< HEAD
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<color>
 				<r>128</r>
 				<g>128</g>
@@ -3362,6 +3827,7 @@
 			</color>
 			<connections>
 				<relation>
+<<<<<<< HEAD
 <<<<<<< HEAD
 					<id>12</id>
 					<source>11</source>
@@ -3371,6 +3837,11 @@
 					<source>8</source>
 					<target>9</target>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<id>9</id>
+					<source>8</source>
+					<target>9</target>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 						<source_xp>-1</source_xp>
 						<source_yp>-1</source_yp>
 						<target_xp>-1</target_xp>
@@ -3391,12 +3862,17 @@
 				</relation>
 			</connections>
 <<<<<<< HEAD
+<<<<<<< HEAD
 			<physical_name>Tag</physical_name>
 			<logical_name>タグテーブル</logical_name>
 =======
 			<physical_name>Title</physical_name>
 			<logical_name>お題テーブル</logical_name>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+			<physical_name>Title</physical_name>
+			<logical_name>お題テーブル</logical_name>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<description></description>
 			<constraint></constraint>
 			<primary_key_name></primary_key_name>
@@ -3404,12 +3880,17 @@
 			<columns>
 				<normal_column>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<word_id>37</word_id>
 					<id>40</id>
 =======
 					<word_id>40</word_id>
 					<id>42</id>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<word_id>40</word_id>
+					<id>42</id>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<description></description>
 					<unique_key_name></unique_key_name>
 					<logical_name></logical_name>
@@ -3442,6 +3923,7 @@
 				</normal_column>
 				<normal_column>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<id>41</id>
 					<referenced_column>43</referenced_column>
 					<relation>12</relation>
@@ -3450,6 +3932,11 @@
 					<referenced_column>38</referenced_column>
 					<relation>9</relation>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<id>43</id>
+					<referenced_column>38</referenced_column>
+					<relation>9</relation>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<description></description>
 					<unique_key_name></unique_key_name>
 					<logical_name></logical_name>
@@ -3461,10 +3948,14 @@
 					<foreign_key>true</foreign_key>
 					<not_null>true</not_null>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<primary_key>true</primary_key>
 =======
 					<primary_key>false</primary_key>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<primary_key>false</primary_key>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<unique_key>false</unique_key>
 					<character_set></character_set>
 					<collation></collation>
@@ -3486,12 +3977,17 @@
 				</normal_column>
 				<normal_column>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<word_id>21</word_id>
 					<id>42</id>
 =======
 					<word_id>20</word_id>
 					<id>44</id>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<word_id>20</word_id>
+					<id>44</id>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<description></description>
 					<unique_key_name></unique_key_name>
 					<logical_name></logical_name>
@@ -3502,10 +3998,14 @@
 					<auto_increment>false</auto_increment>
 					<foreign_key>false</foreign_key>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<not_null>true</not_null>
 =======
 					<not_null>false</not_null>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<not_null>false</not_null>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<primary_key>false</primary_key>
 					<unique_key>false</unique_key>
 					<character_set></character_set>
@@ -3541,6 +4041,7 @@
 		</table>
 		<table>
 <<<<<<< HEAD
+<<<<<<< HEAD
 			<id>11</id>
 			<height>287</height>
 			<width>433</width>
@@ -3557,6 +4058,15 @@
 			<x>-2</x>
 			<y>496</y>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+			<id>10</id>
+			<height>138</height>
+			<width>261</width>
+				<font_name>Meiryo UI</font_name>
+				<font_size>9</font_size>
+			<x>468</x>
+			<y>756</y>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<color>
 				<r>128</r>
 				<g>128</g>
@@ -3564,6 +4074,7 @@
 			</color>
 			<connections>
 				<relation>
+<<<<<<< HEAD
 <<<<<<< HEAD
 					<id>13</id>
 					<source>12</source>
@@ -3601,6 +4112,11 @@
 					<source>9</source>
 					<target>10</target>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<id>10</id>
+					<source>12</source>
+					<target>10</target>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 						<source_xp>-1</source_xp>
 						<source_yp>-1</source_yp>
 						<target_xp>-1</target_xp>
@@ -3621,18 +4137,24 @@
 				</relation>
 			</connections>
 <<<<<<< HEAD
+<<<<<<< HEAD
 			<physical_name>Contribution</physical_name>
 			<logical_name>投稿テーブル</logical_name>
 =======
 			<physical_name>Contribution_details</physical_name>
 			<logical_name>投稿詳細テーブル</logical_name>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+			<physical_name>Tag</physical_name>
+			<logical_name>タグテーブル</logical_name>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<description></description>
 			<constraint></constraint>
 			<primary_key_name></primary_key_name>
 			<option></option>
 			<columns>
 				<normal_column>
+<<<<<<< HEAD
 <<<<<<< HEAD
 					<word_id>9</word_id>
 					<id>43</id>
@@ -3641,6 +4163,10 @@
 					<referenced_column>51</referenced_column>
 					<relation>10</relation>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<word_id>37</word_id>
+					<id>45</id>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<description></description>
 					<unique_key_name></unique_key_name>
 					<logical_name></logical_name>
@@ -3649,12 +4175,17 @@
 					<constraint></constraint>
 					<default_value></default_value>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<auto_increment>true</auto_increment>
 					<foreign_key>false</foreign_key>
 =======
 					<auto_increment>false</auto_increment>
 					<foreign_key>true</foreign_key>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<auto_increment>true</auto_increment>
+					<foreign_key>false</foreign_key>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<not_null>true</not_null>
 					<primary_key>true</primary_key>
 					<unique_key>false</unique_key>
@@ -3677,6 +4208,7 @@
 					</sequence>
 				</normal_column>
 				<normal_column>
+<<<<<<< HEAD
 <<<<<<< HEAD
 					<id>44</id>
 					<referenced_column>50</referenced_column>
@@ -3686,6 +4218,11 @@
 					<referenced_column>42</referenced_column>
 					<relation>11</relation>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<id>46</id>
+					<referenced_column>51</referenced_column>
+					<relation>10</relation>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<description></description>
 					<unique_key_name></unique_key_name>
 					<logical_name></logical_name>
@@ -3697,10 +4234,14 @@
 					<foreign_key>true</foreign_key>
 					<not_null>true</not_null>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<primary_key>false</primary_key>
 =======
 					<primary_key>true</primary_key>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<primary_key>true</primary_key>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<unique_key>false</unique_key>
 					<character_set></character_set>
 					<collation></collation>
@@ -3722,21 +4263,30 @@
 				</normal_column>
 				<normal_column>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<word_id>10</word_id>
 					<id>45</id>
 =======
 					<word_id>15</word_id>
 					<id>47</id>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<word_id>21</word_id>
+					<id>47</id>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<description></description>
 					<unique_key_name></unique_key_name>
 					<logical_name></logical_name>
 					<physical_name></physical_name>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<type>timestamp</type>
 =======
 					<type>varchar(n)</type>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<type>varchar(n)</type>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<constraint></constraint>
 					<default_value></default_value>
 					<auto_increment>false</auto_increment>
@@ -3763,10 +4313,13 @@
 					</sequence>
 				</normal_column>
 <<<<<<< HEAD
+<<<<<<< HEAD
 				<normal_column>
 					<word_id>34</word_id>
 					<id>46</id>
 =======
+=======
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			</columns>
 			<indexes>
 			</indexes>
@@ -3783,11 +4336,19 @@
 		<table>
 			<id>11</id>
 			<height>138</height>
+<<<<<<< HEAD
 			<width>261</width>
 				<font_name>Meiryo UI</font_name>
 				<font_size>9</font_size>
 			<x>468</x>
 			<y>756</y>
+=======
+			<width>293</width>
+				<font_name>Meiryo UI</font_name>
+				<font_size>9</font_size>
+			<x>-2</x>
+			<y>496</y>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<color>
 				<r>128</r>
 				<g>128</g>
@@ -3795,7 +4356,11 @@
 			</color>
 			<connections>
 				<relation>
+<<<<<<< HEAD
 					<id>12</id>
+=======
+					<id>11</id>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<source>12</source>
 					<target>11</target>
 						<source_xp>-1</source_xp>
@@ -3816,18 +4381,52 @@
 					<referenced_column>null</referenced_column>
 					<referenced_complex_unique_key>null</referenced_complex_unique_key>
 				</relation>
+<<<<<<< HEAD
 			</connections>
 			<physical_name>Tag</physical_name>
 			<logical_name>タグテーブル</logical_name>
+=======
+				<relation>
+					<id>12</id>
+					<source>9</source>
+					<target>11</target>
+						<source_xp>-1</source_xp>
+						<source_yp>-1</source_yp>
+						<target_xp>-1</target_xp>
+						<target_yp>-1</target_yp>
+						<color>
+							<r>0</r>
+							<g>0</g>
+							<b>0</b>
+						</color>
+					<child_cardinality>1..n</child_cardinality>
+					<parent_cardinality>1</parent_cardinality>
+					<reference_for_pk>true</reference_for_pk>
+					<name></name>
+					<on_delete_action>RESTRICT</on_delete_action>
+					<on_update_action>RESTRICT</on_update_action>
+					<referenced_column>null</referenced_column>
+					<referenced_complex_unique_key>null</referenced_complex_unique_key>
+				</relation>
+			</connections>
+			<physical_name>Contribution_details</physical_name>
+			<logical_name>投稿詳細テーブル</logical_name>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<description></description>
 			<constraint></constraint>
 			<primary_key_name></primary_key_name>
 			<option></option>
 			<columns>
 				<normal_column>
+<<<<<<< HEAD
 					<word_id>37</word_id>
 					<id>48</id>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<id>48</id>
+					<referenced_column>51</referenced_column>
+					<relation>11</relation>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<description></description>
 					<unique_key_name></unique_key_name>
 					<logical_name></logical_name>
@@ -3835,6 +4434,7 @@
 					<type>integer</type>
 					<constraint></constraint>
 					<default_value></default_value>
+<<<<<<< HEAD
 <<<<<<< HEAD
 					<auto_increment>false</auto_increment>
 					<foreign_key>false</foreign_key>
@@ -3846,6 +4446,12 @@
 					<not_null>true</not_null>
 					<primary_key>true</primary_key>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<auto_increment>false</auto_increment>
+					<foreign_key>true</foreign_key>
+					<not_null>true</not_null>
+					<primary_key>true</primary_key>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<unique_key>false</unique_key>
 					<character_set></character_set>
 					<collation></collation>
@@ -3867,6 +4473,7 @@
 				</normal_column>
 				<normal_column>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<word_id>30</word_id>
 					<id>47</id>
 =======
@@ -3874,6 +4481,11 @@
 					<referenced_column>51</referenced_column>
 					<relation>12</relation>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<id>49</id>
+					<referenced_column>42</referenced_column>
+					<relation>12</relation>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<description></description>
 					<unique_key_name></unique_key_name>
 					<logical_name></logical_name>
@@ -3883,6 +4495,7 @@
 					<default_value></default_value>
 					<auto_increment>false</auto_increment>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<foreign_key>false</foreign_key>
 					<not_null>true</not_null>
 					<primary_key>false</primary_key>
@@ -3891,6 +4504,11 @@
 					<not_null>true</not_null>
 					<primary_key>true</primary_key>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<foreign_key>true</foreign_key>
+					<not_null>true</not_null>
+					<primary_key>true</primary_key>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<unique_key>false</unique_key>
 					<character_set></character_set>
 					<collation></collation>
@@ -3912,16 +4530,22 @@
 				</normal_column>
 				<normal_column>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<word_id>12</word_id>
 					<id>48</id>
 =======
 					<word_id>21</word_id>
 					<id>50</id>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<word_id>15</word_id>
+					<id>50</id>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<description></description>
 					<unique_key_name></unique_key_name>
 					<logical_name></logical_name>
 					<physical_name></physical_name>
+<<<<<<< HEAD
 <<<<<<< HEAD
 					<type>int(n)</type>
 					<constraint></constraint>
@@ -3959,15 +4583,21 @@
 					<physical_name>status_update_admin_id</physical_name>
 =======
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<type>varchar(n)</type>
 					<constraint></constraint>
 					<default_value></default_value>
 					<auto_increment>false</auto_increment>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<foreign_key>true</foreign_key>
 =======
 					<foreign_key>false</foreign_key>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<foreign_key>false</foreign_key>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<not_null>true</not_null>
 					<primary_key>false</primary_key>
 					<unique_key>false</unique_key>
@@ -4005,6 +4635,7 @@
 		<table>
 			<id>12</id>
 <<<<<<< HEAD
+<<<<<<< HEAD
 			<height>283</height>
 			<width>325</width>
 				<font_name>Meiryo UI</font_name>
@@ -4012,19 +4643,25 @@
 			<x>888</x>
 			<y>24</y>
 =======
+=======
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<height>287</height>
 			<width>433</width>
 				<font_name>Meiryo UI</font_name>
 				<font_size>9</font_size>
 			<x>372</x>
 			<y>357</y>
+<<<<<<< HEAD
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<color>
 				<r>128</r>
 				<g>128</g>
 				<b>192</b>
 			</color>
 			<connections>
+<<<<<<< HEAD
 <<<<<<< HEAD
 			</connections>
 			<physical_name>Member</physical_name>
@@ -4033,6 +4670,11 @@
 				<relation>
 					<id>13</id>
 					<source>7</source>
+=======
+				<relation>
+					<id>13</id>
+					<source>6</source>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<target>12</target>
 						<source_xp>-1</source_xp>
 						<source_yp>-1</source_yp>
@@ -4054,7 +4696,11 @@
 				</relation>
 				<relation>
 					<id>14</id>
+<<<<<<< HEAD
 					<source>6</source>
+=======
+					<source>7</source>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<target>12</target>
 						<source_xp>-1</source_xp>
 						<source_yp>-1</source_yp>
@@ -4077,7 +4723,10 @@
 			</connections>
 			<physical_name>Contribution</physical_name>
 			<logical_name>投稿テーブル</logical_name>
+<<<<<<< HEAD
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 			<description></description>
 			<constraint></constraint>
 			<primary_key_name></primary_key_name>
@@ -4085,12 +4734,17 @@
 			<columns>
 				<normal_column>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<word_id>18</word_id>
 					<id>50</id>
 =======
 					<word_id>9</word_id>
 					<id>51</id>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<word_id>9</word_id>
+					<id>51</id>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<description></description>
 					<unique_key_name></unique_key_name>
 					<logical_name></logical_name>
@@ -4122,6 +4776,7 @@
 					</sequence>
 				</normal_column>
 				<normal_column>
+<<<<<<< HEAD
 <<<<<<< HEAD
 					<word_id>14</word_id>
 					<id>51</id>
@@ -4163,10 +4818,16 @@
 					<referenced_column>25</referenced_column>
 					<relation>14</relation>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<id>52</id>
+					<referenced_column>25</referenced_column>
+					<relation>13</relation>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<description></description>
 					<unique_key_name></unique_key_name>
 					<logical_name></logical_name>
 					<physical_name></physical_name>
+<<<<<<< HEAD
 <<<<<<< HEAD
 					<type>varchar(n)</type>
 					<constraint></constraint>
@@ -4174,12 +4835,17 @@
 					<auto_increment>false</auto_increment>
 					<foreign_key>false</foreign_key>
 =======
+=======
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<type>integer</type>
 					<constraint></constraint>
 					<default_value></default_value>
 					<auto_increment>false</auto_increment>
 					<foreign_key>true</foreign_key>
+<<<<<<< HEAD
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<not_null>true</not_null>
 					<primary_key>false</primary_key>
 					<unique_key>false</unique_key>
@@ -4203,20 +4869,28 @@
 				</normal_column>
 				<normal_column>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<word_id>26</word_id>
 =======
 					<word_id>10</word_id>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<word_id>10</word_id>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<id>53</id>
 					<description></description>
 					<unique_key_name></unique_key_name>
 					<logical_name></logical_name>
 					<physical_name></physical_name>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<type>character(n)</type>
 =======
 					<type>timestamp</type>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<type>timestamp</type>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<constraint></constraint>
 					<default_value></default_value>
 					<auto_increment>false</auto_increment>
@@ -4244,29 +4918,41 @@
 				</normal_column>
 				<normal_column>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<word_id>17</word_id>
 =======
 					<word_id>34</word_id>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<word_id>34</word_id>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<id>54</id>
 					<description></description>
 					<unique_key_name></unique_key_name>
 					<logical_name></logical_name>
 					<physical_name></physical_name>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<type>varchar(n)</type>
 =======
 					<type>integer</type>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<type>integer</type>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<constraint></constraint>
 					<default_value></default_value>
 					<auto_increment>false</auto_increment>
 					<foreign_key>false</foreign_key>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<not_null>true</not_null>
 =======
 					<not_null>false</not_null>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<not_null>false</not_null>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<primary_key>false</primary_key>
 					<unique_key>false</unique_key>
 					<character_set></character_set>
@@ -4289,20 +4975,28 @@
 				</normal_column>
 				<normal_column>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<word_id>1</word_id>
 =======
 					<word_id>30</word_id>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<word_id>30</word_id>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<id>55</id>
 					<description></description>
 					<unique_key_name></unique_key_name>
 					<logical_name></logical_name>
 					<physical_name></physical_name>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<type>date</type>
 =======
 					<type>integer</type>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<type>integer</type>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<constraint></constraint>
 					<default_value></default_value>
 					<auto_increment>false</auto_increment>
@@ -4330,29 +5024,41 @@
 				</normal_column>
 				<normal_column>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<word_id>36</word_id>
 =======
 					<word_id>12</word_id>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<word_id>12</word_id>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<id>56</id>
 					<description></description>
 					<unique_key_name></unique_key_name>
 					<logical_name></logical_name>
 					<physical_name></physical_name>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<type>character(n)</type>
 =======
 					<type>int(n)</type>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<type>int(n)</type>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<constraint></constraint>
 					<default_value></default_value>
 					<auto_increment>false</auto_increment>
 					<foreign_key>false</foreign_key>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<not_null>true</not_null>
 =======
 					<not_null>false</not_null>
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+					<not_null>false</not_null>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<primary_key>false</primary_key>
 					<unique_key>false</unique_key>
 					<character_set></character_set>
@@ -4374,6 +5080,7 @@
 					</sequence>
 				</normal_column>
 				<normal_column>
+<<<<<<< HEAD
 <<<<<<< HEAD
 					<word_id>11</word_id>
 					<id>57</id>
@@ -4391,6 +5098,11 @@
 					<id>57</id>
 					<referenced_column>33</referenced_column>
 					<relation>13</relation>
+=======
+					<id>57</id>
+					<referenced_column>33</referenced_column>
+					<relation>14</relation>
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<description></description>
 					<unique_key_name></unique_key_name>
 					<logical_name>ステータス更新管理者ID</logical_name>
@@ -4401,7 +5113,10 @@
 					<auto_increment>false</auto_increment>
 					<foreign_key>true</foreign_key>
 					<not_null>true</not_null>
+<<<<<<< HEAD
 >>>>>>> ef61938d8d570398ccb6abe0ce51f66f577f19d6
+=======
+>>>>>>> af44184b23ec52970675c7159d8eb718dd7cd042
 					<primary_key>false</primary_key>
 					<unique_key>false</unique_key>
 					<character_set></character_set>

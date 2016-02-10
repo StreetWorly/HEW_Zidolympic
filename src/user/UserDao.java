@@ -22,7 +22,7 @@ public class UserDao{
 				, "root"
 				, "");
 	}
-	
+
 	// ユーザ照会
 	public User select(String id, String password){
 		// 戻り値
@@ -36,7 +36,7 @@ public class UserDao{
 					// ? を置き換え
 					ps.setString(1, id);
 					ps.setString(2, password);
-					
+
 					// 結果を代入
 					ResultSet rs = ps.executeQuery();
 					if(rs.next()){
@@ -50,7 +50,7 @@ public class UserDao{
 				}
 		return user;
 	}
-	
+
 	// 新規ユーザ登録
 	public int insert(String id, String name, String password, String Mail_adress ,String birthday, String sex,boolean delete_flag){
 		int count = 0;
@@ -72,6 +72,36 @@ public class UserDao{
 		}
 		return count;
 	}
-	
-	
+
+	// 認証
+	public User auth(String id, String password){
+		// 戻り値
+		User user = null;
+		try(
+				Connection con = getConnection();
+				PreparedStatement ps = con.prepareStatement(
+						// SQL
+						"select * from Member where id = ? and password = ? ");
+						){
+					// ? を置き換え
+					ps.setString(1, id);
+					ps.setString(2, password);
+
+					// 結果を代入
+					ResultSet rs = ps.executeQuery();
+					if(rs.next()){
+						user = new User();
+						user.setId(rs.getString("id"));
+						user.setName(rs.getString("name"));
+						user.setPassword(rs.getString("password"));
+						user.setMail_adress(rs.getString("mail_adress"));
+						user.setbirthday(rs.getString("birthday"));
+					}
+				}catch(Exception e){
+					e.printStackTrace();
+					return null;
+				}
+		return user;
+	}
+
 }
