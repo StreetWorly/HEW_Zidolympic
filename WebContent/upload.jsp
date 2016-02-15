@@ -32,4 +32,8 @@
 		<a href="index.jsp">いんでっくす</a>
 	</c:param>
 </c:import>
+<<<<<<< HEAD
 </body></html>
+=======
+</body></html>
+>>>>>>> b08f131c100a285635b7af80ab9ad09ebe115582

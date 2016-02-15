@@ -110,6 +110,75 @@ ul {
 	padding: 10px 0;
 	margin: 20px 0;
 	width: 100%;
+<<<<<<< HEAD
+=======
+}
+
+/* マイページ */
+.mypage-content {
+	margin: 10px 0;
+	width: 800px;
+	height: 300px;
+	background: #2ec87a;
+}
+
+.mypage-pic {
+	margin: 10px;
+	padding: 10px;
+	width: 760px;
+	height: 250px;
+	background: #4a4a4a;
+	clear: both;
+}
+
+.pic-area {
+	width: 220px;
+	float: left;
+}
+.pic {
+	margin: 0;
+	padding: 0;
+	width: 200px;
+	height: 200px;
+	background: #aaaaaa;
+}
+
+.pic-title {
+	color: #fcfcfc;
+}
+
+/* 写真リスト */
+.search-form {
+	margin: 20px auto;
+}
+
+.pic-list {
+	padding: 20px;
+	margin: 20px auto;
+	background: #ac62fe;
+	overflow: hidden;
+}
+
+.pic-row {
+	clear: both;
+}
+
+.pic-area {
+	padding: 10px;
+	background: #52d26a;
+}
+
+.paging {
+	clear: both;
+	width: 600px;
+	color: #fcfcfc;
+	text-align: center;
+}
+
+.page {
+	float: left;
+	text-align: center;
+>>>>>>> b08f131c100a285635b7af80ab9ad09ebe115582
 =======
 * {
   margin: 0;
